@@ -35,6 +35,10 @@ Experience
 2016 - now	Freelancer, Regional Representative and technical support 
 		Web-Bridge Ltd
 
+2021 - now System Administrator and DevOps in Neural University 
+
+
+
 
 Education
 
@@ -50,4 +54,4 @@ Education
 
 My background
 
-#docker, #docker-compose, #rancher, #rancher-compose, #kubernetes, #bash, #sh, #python, #perl, #dovecot, #postfix, #exim, #spamassassin, #dspam, #cyrus, #SSL, #easy-rsa, #dkim, #spf, #openvpn, #ipsec, #pptp, #freeradius, #mysql, #postgreSQL, #ipfw, #iptables, #pf, #tcpdump, #nfs, #ext3, #ext4, #zfs, #ntfs, #smb, #ftp, #zabbix, #nagios, #postfixadmin, #exilog, #eximstats, #ratticDB, #redmine, #git, #bitbucket, #amazon-aws, #backup-scripts, #squid, #tor, #rsyslog, #ELK-stack, #zabbix-templates, #zabbix-server, #bandwight, #snort, #ossec, #ossim, #p0f, #ejabberd, #embedded-linux, #asteriks, #activeDirectory #RouterOS #microsoftCertifiedProfessional #bacula 
+#docker, #docker-compose, #rancher, #rancher-compose, #kubernetes, #bash, #sh, #python, #dovecot, #postfix, #exim, #spamassassin, #dspam, #cyrus, #SSL, #easy-rsa, #dkim, #spf, #openvpn, #ipsec, #pptp, #freeradius, #mysql, #postgreSQL, #ipfw, #iptables, #pf, #tcpdump, #nfs, #ext3, #ext4, #zfs, #ntfs, #smb, #ftp, #zabbix, #nagios, #postfixadmin, #exilog, #eximstats, #ratticDB, #redmine, #git, #bitbucket, #amazon-aws, #backup-scripts, #squid, #tor, #rsyslog, #ELK-stack, #zabbix-templates, #zabbix-server, #bandwight, #snort, #ossec, #ossim, #p0f, #ejabberd, #embedded-linux, #asteriks, #activeDirectory #RouterOS #microsoftCertifiedProfessional #bacula #traefik #cuda
