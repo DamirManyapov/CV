@@ -21,7 +21,7 @@ I'm interested in working in the international team, in the possibilities of the
 
 #### 2006 - 2008	System Administrator
 		Alias-T
-		Outsource company, was support and administrate own office and company 			clients
+		Outsource company, was support and administrate own office and company clients
 
 #### 2008 - 2010	Head of Technical Department and System Administrator
 		Alias-T
@@ -29,11 +29,10 @@ I'm interested in working in the international team, in the possibilities of the
 		System administration  FreeBSD 
 
 #### 2010 - 2016	Deputy Director for IT Technologies
-		[Gymnasium Univers #1](http://univers.su "Univers")
-		Managing all IT departments, planning the development of IT structure of the 			company.
+        [Gymnasium Univers #1](http://univers.su "Univers")
+		Managing all IT departments, planning the development of IT structure of the company.
 
-#### 2016 - now	Freelancer, Regional Representative and technical support 
-		Web-Bridge Ltd
+#### 2016 - now	Freelancer, Regional Representative and technical support Web-Bridge Ltd
 
 #### 2021 - now System Administrator and DevOps in [Neural University](https://neural-university.ru "Neural University") 
 
@@ -44,8 +43,7 @@ I'm interested in working in the international team, in the possibilities of the
 
 #### 2001 - 2005	Krasnoyarsk State University, specialist of Ecology
 
-#### 2015 - 2017	Magister's degree of conflict management
-		Siberian Federal University
+#### 2015 - 2017	Magister's degree of conflict management Siberian Federal University
 
 
 
