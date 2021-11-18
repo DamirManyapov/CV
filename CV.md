@@ -1,11 +1,8 @@
 DAMIR MANYAPOV
 
 Russia  
-
 +79029277374  
-
 <2977374@gmail.com>  
-
 Skype: damir_madaga  
 
 
