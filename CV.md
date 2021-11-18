@@ -1,8 +1,8 @@
 DAMIR MANYAPOV
 
 Russia 
-+79029277374
-<2977374@gmail.com>
++79029277374 
+<2977374@gmail.com> 
 Skype: damir_madaga
 
 
@@ -28,8 +28,7 @@ I'm interested in working in the international team, in the possibilities of the
 		Management of the department, development of the department, staff training.
 		System administration  FreeBSD 
 
-#### 2010 - 2016	Deputy Director for IT Technologies
-        [Gymnasium Univers #1](http://univers.su "Univers")
+#### 2010 - 2016	Deputy Director for IT Technologies [Gymnasium Univers #1](http://univers.su "Univers")
 		Managing all IT departments, planning the development of IT structure of the company.
 
 #### 2016 - now	Freelancer, Regional Representative and technical support Web-Bridge Ltd
