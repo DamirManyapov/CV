@@ -29,13 +29,13 @@ Experience
 		System administration  FreeBSD 
 
 2010 - 2016	Deputy Director for IT Technologies
-		Gymnasium Univers #1
+		[Gymnasium Univers #1](http://univers.su "Univers")
 		Managing all IT departments, planning the development of IT structure of the 			company.
 
 2016 - now	Freelancer, Regional Representative and technical support 
 		Web-Bridge Ltd
 
-2021 - now System Administrator and DevOps in Neural University 
+2021 - now System Administrator and DevOps in [Neural University](https://neural-university.ru "Neural University") 
 
 
 
