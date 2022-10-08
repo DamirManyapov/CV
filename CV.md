@@ -1,8 +1,9 @@
 DAMIR MANYAPOV
 
-Russia  
+Kyrgyzstan  
 +79029277374  
 <2977374@gmail.com>  
+TG: @DamirManyapov
 Skype: damir_madaga  
 
 
@@ -32,10 +33,18 @@ I'm interested in working in the international team, in the possibilities of the
 #### 2010 - 2016	Deputy Director for IT Technologies [Gymnasium Univers #1](http://univers.su "Univers")
 		Managing all IT departments, planning the development of IT structure of the company.
 
-#### 2016 - now	Freelancer, Regional Representative and technical support Web-Bridge Ltd
+#### 2016 - 2021 Freelancer, Regional Representative and technical support Web-Bridge Ltd
+		- Linux System Administrators (Ubuntu, Debian, CentOs)
+		- Mail Server Administration (Dovecot, Exim, Postfix)
+		- Web Server Administration (Nginx, Apache)
+		- SIP Server Administration (Aterisk)
+		- Mikrotik Network Administration 
 
-#### 2021 - now System Administrator and DevOps in [Neural University](https://neural-university.ru "Neural University") 
+#### 2021 - 2022 System Administrator and DevOps in [Neural University](https://neural-university.ru "Neural University") 
+		Deployment and support of infrastructure for the development and use of neural networks. Working with developers in the DevOps position.
 
+#### 2021 - now System Administrator in [BrainySoft](https://brainysoft.ru "BrainySoft")
+		I am implementing a Zabbix-based monitoring system and an infrastructure backup system. We use Ansible automation and the GitOps approach.
 
 
 
@@ -52,4 +61,4 @@ I'm interested in working in the international team, in the possibilities of the
 
 ### My background ### 
 
-#docker, #docker-compose, #rancher, #rancher-compose, #kubernetes, #bash, #sh, #python, #dovecot, #postfix, #exim, #spamassassin, #dspam, #cyrus, #SSL, #easy-rsa, #dkim, #spf, #openvpn, #ipsec, #pptp, #freeradius, #mysql, #postgreSQL, #ipfw, #iptables, #pf, #tcpdump, #nfs, #ext3, #ext4, #zfs, #ntfs, #smb, #ftp, #zabbix, #nagios, #postfixadmin, #exilog, #eximstats, #ratticDB, #redmine, #git, #bitbucket, #amazon-aws, #backup-scripts, #squid, #tor, #rsyslog, #ELK-stack, #zabbix-templates, #zabbix-server, #bandwight, #snort, #ossec, #ossim, #p0f, #ejabberd, #embedded-linux, #asteriks, #activeDirectory #RouterOS #microsoftCertifiedProfessional #bacula #traefik #cuda
+#docker, #docker-compose, #rancher, #rancher-compose, #kubernetes, #bash, #sh, #python, #dovecot, #postfix, #exim, #spamassassin, #dspam, #cyrus, #SSL, #easy-rsa, #dkim, #spf, #openvpn, #ipsec, #pptp, #freeradius, #mysql, #postgreSQL, #ipfw, #iptables, #pf, #tcpdump, #nfs, #zfs, #smb, #ftp, #zabbix, #nagios, #postfixadmin, #exilog, #eximstats, #ratticDB, #redmine, #git, #bitbucket, #amazon-aws, #backup-scripts, #squid, #tor, #rsyslog, #ELK-stack, #zabbix-templates, #zabbix-server, #bandwight, #snort, #ossec, #ossim, #p0f, #ejabberd, #embedded-linux, #asteriks, #activeDirectory, #RouterOS, #microsoftCertifiedProfessional, #bacula, #traefik, #cuda, #restic 
