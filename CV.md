@@ -1,4 +1,4 @@
-DAMIR MANYAPOV
+## DAMIR MANYAPOV ##
 
 Kyrgyzstan Russia Thailand   
 +79029277374  
@@ -9,14 +9,14 @@ Skype: damir_madaga
 
 
 ### Summary ###
-
+***
 
 After going from the technical support engineer for Windows systems to the Unix administrator (FreeBSD) systems and the head of the IT structure, having experience in transferring servers from proprietary software to open source software, as well as an entire IT structure. I deal with open technologies and Linux Unix-like systems.
 
 I'm interested in working in the international team, in the possibilities of their use in large scale projects. I'm open for the new approaches in organizing the work of teams, including Agile and DevOps.
 
 ### Progress ###
-
+***
 - Implementation of the Zabbix monitoring system in the corporate cloud with monitoring of more than 300 servers. Automatic agent deployment and update system using Ansible and GitLab  
 - Implementation of SIP telephony in an organization with 400 active subscribers, the basis of basic Asterisk  
 - Development of a system for deploying neural networks and delivering them to customers using Dockers and Ansible  
@@ -24,7 +24,7 @@ I'm interested in working in the international team, in the possibilities of the
 - Transfer of the organization's IT infrastructure, more than 500 workstations and 20 physical servers, from Proprietary Software to Open Source Software  
 
 ### Experience ###
-
+***
 #### 2020 - now Middle DevOps in CyberYozh 
 Building CI/CD using Github Actions, deploying and configuring servers for both development and product line. Interaction and support of developers  
 
@@ -56,7 +56,7 @@ Setup and support engineer
 
 
 ### Education ###
-
+***
 #### 2001 - 2005	Krasnoyarsk State University, specialist of Ecology
 
 #### 2006 - 2010	Microsoft Certified Professional   
@@ -65,5 +65,5 @@ Setup and support engineer
   
   
 ### My background ### 
-
+***
 #docker, #docker-compose, #rancher, #rancher-compose, #kubernetes, #bash, #sh, #python, #dovecot, #postfix, #exim, #spamassassin, #dspam, #cyrus, #SSL, #easy-rsa, #dkim, #spf, #openvpn, #ipsec, #pptp, #freeradius, #mysql, #postgreSQL, #ipfw, #iptables, #pf, #tcpdump, #nfs, #zfs, #smb, #ftp, #zabbix, #nagios, #postfixadmin, #exilog, #eximstats, #ratticDB, #redmine, #git, #bitbucket, #amazon-aws, #backup-scripts, #squid, #tor, #rsyslog, #ELK-stack, #zabbix-templates, #zabbix-server, #bandwight, #snort, #ossec, #ossim, #p0f, #ejabberd, #embedded-linux, #asteriks, #activeDirectory, #RouterOS, #microsoftCertifiedProfessional, #bacula, #traefik, #cuda, #restic #registry #pritunl #GithubActions #backuppc 	
