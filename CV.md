@@ -17,11 +17,11 @@ I'm interested in working in the international team, in the possibilities of the
 
 ### Progress ###
 
-	- Implementation of the Zabbix monitoring system in the corporate cloud with monitoring of more than 300 servers. Automatic agent deployment and update system using Ansible and GitLab  
-	- Implementation of SIP telephony in an organization with 400 active subscribers, the basis of basic Asterisk  
-	- Development of a system for deploying neural networks and delivering them to customers using Dockers and Ansible  
-	- Building a project development system from implementing Git to building a CI/CD pipeline using Dev Prod and Staging versions  
-	- Transfer of the organization's IT infrastructure, more than 500 workstations and 20 physical servers, from Proprietary Software to Open Source Software  
+	>- Implementation of the Zabbix monitoring system in the corporate cloud with monitoring of more than 300 servers. Automatic agent deployment and update system using Ansible and GitLab  
+	>- Implementation of SIP telephony in an organization with 400 active subscribers, the basis of basic Asterisk  
+	>- Development of a system for deploying neural networks and delivering them to customers using Dockers and Ansible  
+	>- Building a project development system from implementing Git to building a CI/CD pipeline using Dev Prod and Staging versions  
+	>- Transfer of the organization's IT infrastructure, more than 500 workstations and 20 physical servers, from Proprietary Software to Open Source Software  
 
 ### Experience ###
 
