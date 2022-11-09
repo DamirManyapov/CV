@@ -3,7 +3,7 @@
 Kyrgyzstan Russia Thailand   
 +79029277374  
 <2977374@gmail.com>  
-TG: @DamirManyapov  
+t.me/DamirManyapov  
 Skype: damir_madaga  
 
 
