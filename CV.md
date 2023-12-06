@@ -1,7 +1,8 @@
 ## DAMIR MANYAPOV ##
 
-Kyrgyzstan Russia Thailand   
-+79029277374  
+Thailand   
++79029277374
++66822734532
 <2977374@gmail.com>  
 t.me/DamirManyapov  
 Skype: damir_madaga  
@@ -25,11 +26,15 @@ I'm interested in working in the international team, in the possibilities of the
 
 ### Experience ###
 ***
-#### 2020 - now Middle DevOps in CyberYozh 
-Building CI/CD using Github Actions, deploying and configuring servers for both development and product line. Interaction and support of developers  
 
 #### 2021 - now System Administrator in [BrainySoft](https://brainysoft.ru "BrainySoft")
 I am implementing a Zabbix-based monitoring system and an infrastructure backup system. We use Ansible automation and the GitOps approach.
+Developed a backup strategy for infrastructure, with infrastructure backups primarily based on Restic, including monitoring of the backup system and notifications of failures.
+Enhanced the monitoring system based on Zabbix with Prometheus and Grafana integration.
+
+#### 2020 - 2023 Middle DevOps in CyberYozh 
+Building CI/CD using Github Actions, deploying and configuring servers for both development and product line. Interaction and support of developers.
+Developed and maintained a VPN based on OpenVPN and Ansible-Playbook scripts.
 
 #### 2021 - 2022 System Administrator and DevOps in [Neural University](https://neural-university.ru "Neural University") 
 Deployment and support of infrastructure for the development and use of neural networks. Working with developers in the DevOps position.
